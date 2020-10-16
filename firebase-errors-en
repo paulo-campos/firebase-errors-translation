@@ -1,3 +1,5 @@
+// Errors encontrados em:
+// firebase > firebase-auth.js da da versão 5.5.7 do firebase
 {
     "admin-restricted-operation": "This operation is restricted to administrators only.",
     "argument-error": "",
